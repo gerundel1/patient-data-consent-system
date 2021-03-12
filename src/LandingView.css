@@ -1,0 +1,51 @@
+.LandingView {
+    text-align: center;
+}
+
+.Info {
+    background:linear-gradient(rgba(0, 26, 255, 0.452),transparent);
+    background-color:rgba(191, 200, 223, 0.253);
+    border-radius: 1em;
+    border-color: rgba(0, 0, 255, 0.349);
+    color : black;
+    margin: 1em 1em
+}
+
+.Button {
+    border-radius: 1em;
+}
+
+.Intro {
+    border-radius: 1em;
+    border-color: rgba(0, 0, 255, 0.349);
+    /* background-color:rgba(0, 68, 255, 0.253); */
+
+}
+
+div.Button.col-sm-4 > form > button{
+    padding-left : 0;
+    border-radius: 1em;
+}
+
+.IntroContainer{
+    border-radius: 1em;
+}
+
+footer{
+    border-radius: 0.5em 0.5em 0 0;
+    background-color: rgba(0, 68, 255, 0.596);
+}
+
+footer p {
+    font-size: x-small;
+}
+
+.org {
+    color: #007bff;
+}
+
+.BlockChainCarousel{
+    border:rgba(191, 200, 223, 0.253);
+    border-radius: 1em;
+    border-width: 1em;
+}
